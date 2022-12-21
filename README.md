@@ -7,8 +7,8 @@ The objective of this project is to receive images, interpret them, and generate
 ## Setup
 
 In order to setup this project, two key steps are fundamental, firstly, download the pre-trained weights for both Mask-RCNN and AlphaPose models, 
-The duc_se.pth can be found in this ![Google Drive](https://drive.google.com/open?id=1OPORTWB2cwd5YTVBX-NE8fsauZJWsrtW), and then place it in **alphapose_utils/models/sppe/**.
-The yolov3-spp.weights can be found in this ![Google Drive](https://drive.google.com/open?id=1D47msNOOiJKvPOXlnpyzdKA3k6E97NTC), and then place it in **alphapose_utils/models/yolo/**.
+The duc_se.pth can be found in this [Google Drive](https://drive.google.com/open?id=1OPORTWB2cwd5YTVBX-NE8fsauZJWsrtW), and then place it in **alphapose_utils/models/sppe/**.
+The yolov3-spp.weights can be found in this [Google Drive](https://drive.google.com/open?id=1D47msNOOiJKvPOXlnpyzdKA3k6E97NTC), and then place it in **alphapose_utils/models/yolo/**.
 
 Run **train.py** to train the Mask-RCNN model.
 
