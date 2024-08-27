@@ -1,6 +1,8 @@
 # Interpretability project
 #### Author: Ângelo Morgado
 
+![](/EvaluationDataset/final_results/image_interpretation.png)
+
 This project was made in the ambit of the final project of the Computer Science degree in Universidade da Beira Interior
 The objective of this project is to receive images, interpret them, and generate a description using segemntation and crowd pose estimation models.
 
