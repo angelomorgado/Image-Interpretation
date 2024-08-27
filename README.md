@@ -1,4 +1,4 @@
-# Interpretability project
+# Image Interpretation project
 #### Author: Ângelo Morgado
 
 ![](/EvaluationDataset/final_results/image-interpretation.png)
@@ -8,7 +8,7 @@ There are eight people in the image. Some of them are facing the camera, namely 
 ```
 
 This project was made in the ambit of the final project of the Computer Science degree in Universidade da Beira Interior
-The objective of this project is to receive images, interpret them, and generate a description using segemntation and crowd pose estimation models.
+The objective of this project is to receive images, interpret them, and generate a description using instance segmentation and crowd pose estimation models.
 
 ## Setup
 
