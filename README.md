@@ -1,7 +1,11 @@
 # Interpretability project
 #### Author: Ângelo Morgado
 
-![](/EvaluationDataset/final_results/image_interpretation.png)
+![](/EvaluationDataset/final_results/image-interpretation.png)
+
+```
+There are eight people in the image. Some of them are facing the camera, namely six, while two have their backs to the camera, and none are sideways. Most people are standing, whereas two are sitting, and none are laying. A few of them are close to the camera, about one, meanwhile the rest are further from the camera. All the individuals appear to have their faces covered, possibly by masks. The most prominent shirt tone is dark, and most of the people are wearing dark-colored pants.
+```
 
 This project was made in the ambit of the final project of the Computer Science degree in Universidade da Beira Interior
 The objective of this project is to receive images, interpret them, and generate a description using segemntation and crowd pose estimation models.
